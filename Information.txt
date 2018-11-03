@@ -1,0 +1,9 @@
+While i did include two unzipping files in this program, i would suggest to use WinRar Instead of 7 zip.
+Most programs are meant to increase computer usability.
+I DID NOT CREATE ANY OF THESE PROGRAMS.
+I merely added them to this github address.
+To use timer resolution, click max on the program and MINIMIZE.
+Using the cpuparking, set all to 100%.
+GoddardCore is nice
+Ccleaner should be used often to clean up junk files.
+All other files can be researched or experimented with.
